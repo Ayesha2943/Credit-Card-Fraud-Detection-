@@ -55,8 +55,6 @@ No local installation is required for Google Colab. For local use (e.g., Jupyter
 pip install pandas numpy scikit-learn matplotlib seaborn joblib
 ```
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 Built as a beginner-friendly machine learning project to demonstrate fraud detection concepts, inspired by real-world financial applications.
